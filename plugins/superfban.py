@@ -25,7 +25,7 @@ from . import *
 
 @ultroid_cmd(pattern="superfban ?(.*)")
 async def _(event):
-    msg = await eor(event, "Starting a Mass-FedBan...")
+    msg = await eor(event, "KingCobra Starting Mass Fbanning...")
     fedList = []
     if event.reply_to_msg_id:
         previous_message = await event.get_reply_message()

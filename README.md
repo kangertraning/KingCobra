@@ -19,7 +19,7 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/kangertraining/KingCobra#Deploy-to-Heroku)
+- [Heroku](https://github.com/kangertraining/KingCobra#Deploy-to-Heroku#Deploy-to-Heroku)
 - [Local Machine](https://github.com/kangertraining/KingCobra#Deploy-Locally)
 
 ## Deploy to Heroku

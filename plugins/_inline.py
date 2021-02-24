@@ -22,9 +22,9 @@ from . import *
 
 # ================================================#
 notmine = "This bot is for {}".format(OWNER_NAME)
-ULTROID_PIC = "https://telegra.ph/file/11245cacbffe92e5d5b14.jpg"
+ULTROID_PIC = "https://telegra.ph/file/42690b1a93d1b6eacbb16.mp4"
 helps = """
-[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)
+[kingCobra Sᴜᴘᴘᴏʀᴛ](t.me/Hell_Evry)
 
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.
 
@@ -60,9 +60,9 @@ async def e(o):
         b = o.builder
         uptime = grt((time.time() - start_time))
         ALIVEMSG = """
-**The Ultroid Userbot...**\n\n
+**The KingCobra Userbot...**\n\n
 ✵ **Owner** - `{}`
-✵ **Ultroid** - `{}`
+✵ **KingCobra** - `{}`
 ✵ **UpTime** - `{}`
 ✵ **Python** - `{}`
 ✵ **Telethon** - `{}`
@@ -77,8 +77,8 @@ async def e(o):
         )
         res = [
             b.article(
-                title="Ultroid Userbot",
-                url="https://t.me/TeamUltroid",
+                title="KingCobra Userbot",
+                url="https://t.me/Hello_Evry",
                 description="Userbot | Telethon ",
                 text=ALIVEMSG,
                 thumb=InputWebDocument(ULTROID_PIC, 0, "image/jpeg", []),
@@ -99,7 +99,7 @@ if Var.BOT_USERNAME is not None and asst is not None:
             result = builder.article(
                 title="Help Menu",
                 description="Help Menu - UserBot | Telethon ",
-                url="https://t.me/TheUltroid",
+                url="https://t.me/KingCobra",
                 thumb=InputWebDocument(ULTROID_PIC, 0, "image/jpeg", []),
                 text=f"** Bᴏᴛ Oғ {OWNER_NAME}\n\nMᴀɪɴ Mᴇɴᴜ\n\nPʟᴜɢɪɴs ~ {len(PLUGINS) - 4}\nAᴅᴅᴏɴs ~ {len(ADDONS)}**",
                 buttons=[

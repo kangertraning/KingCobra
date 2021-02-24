@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# KingCobra - UserBot
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
@@ -19,8 +19,8 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/TeamUltroid/Ultroid#Deploy-to-Heroku)
-- [Local Machine](https://github.com/TeamUltroid/Ultroid#Deploy-Locally)
+- [Heroku](https://github.com/kangertraining/KingCobra#Deploy-to-Heroku)
+- [Local Machine](https://github.com/kangertraining/KingCobra#Deploy-Locally)
 
 ## Deploy to Heroku
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)    

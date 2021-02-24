@@ -1,9 +1,9 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "KingCobra UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
+    "logo": "https://telegra.ph/file/42690b1a93d1b6eacbb16.mp4",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "repository": "https://github.com/kangertraning/KingCobra",
     "website": "https://ultroid.now.sh/",
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
